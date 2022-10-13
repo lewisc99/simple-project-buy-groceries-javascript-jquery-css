@@ -161,6 +161,7 @@ input#itemDescription {
     border: none;
     margin-right: 3%;
     height: 50%;
+    width: 70%;
     background-color: rgb(203, 203, 203);
 }
 
@@ -168,8 +169,7 @@ input#itemDescription:focus {
     border-radius: 4px;
 outline:none;
 background-color: rgb(255, 255, 255);
-
-
+  
 }
 
 button#add {
@@ -185,4 +185,11 @@ button#add:hover {
     background-color: black;
     color: whitesmoke;
     
+}
+
+.complete {
+    background-color: rgb(157, 157, 157);
+    
+    border-top: 1px solid rgb(200, 200, 200);
+    border-bottom: 1px solid rgb(118, 118, 118);
 }
