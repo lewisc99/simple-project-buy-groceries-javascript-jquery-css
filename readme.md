@@ -16,7 +16,7 @@
 <hr>
 
 <h5>Link to Page Click Below<h5>
-<a href="https://lewisc99.github.io/simple-project-buy-groceries-javascript-jquery-css/Index.html">Click Here</a>
+<a href="https://lewisc99.github.io/simple-project-buy-groceries-javascript-jquery-css/Index.html" target="_blank">Click Here</a>
 <br/>
 <hr/>
 
