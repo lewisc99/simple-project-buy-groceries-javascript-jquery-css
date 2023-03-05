@@ -53,7 +53,4 @@ $(function() {
     $formDiv.hide();
     $inputValue.val('');
   })
-
-
-
 })
