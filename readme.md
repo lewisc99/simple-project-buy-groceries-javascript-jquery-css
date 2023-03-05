@@ -1,5 +1,9 @@
 ﻿﻿## <h1> 🖼 Add Groceries CheckList</h1> <br/>
+<h5>Link to the Page Click Below<h5>
+<a href="https://lewisc99.github.io/simple-project-buy-groceries-javascript-jquery-css/Index.html" target="_blank">Click Here</a>
 <br/>
+<hr/>
+
 <h2>Description English</h2>
 <p> Simple Add Groceries to Checklist you can add a new Item and remove it.</p>
 <hr>
@@ -15,10 +19,6 @@
 <br/>
 <hr>
 
-<h5>Link to Page Click Below<h5>
-<a href="https://lewisc99.github.io/simple-project-buy-groceries-javascript-jquery-css/Index.html" target="_blank">Click Here</a>
-<br/>
-<hr/>
 
 ## 🖼 Screenshot APPLICATION SCREENS <br/>
 <p>Whole application click below to the run video</p><img src="images/gym-corpus.gif">
